@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>complex</key>
+		<dict>
+			<key>Definition</key>
+			<string>A combination of a real and an imaginary number in the form _a + bi_, with both a and b real numbers and i the square root of -1.</string>
+		</dict>
+		<key>cardioid</key>
+		<dict>
+			<key>Definition</key>
+			<string>A plane curve that can be traced in many ways. Its name refers to cardiology and means heart.</string>
+		</dict>
+		<key>recurrence</key>
+		<dict>
+			<key>Definition</key>
+			<string>A recurrence relation is an equation that defines a sequence based on a rule that gives the next term as a function of the previous term(s).</string>
+		</dict>
+		<key>fractal</key>
+		<dict>
+			<key>Definition</key>
+			<string>Fractals are infinitely complex patterns that are self-similar across different scales. They are created by repeating a simple process over and over in an ongoing feedback loop.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
