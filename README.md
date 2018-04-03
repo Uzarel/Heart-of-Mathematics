@@ -1,14 +1,13 @@
 # Heart of Mathematics
 
-“*Heart of mathematics*” is an interactive playground in which you will experience the infinite beauty of the patterns behind times tables, circles and fractals.
-
-## Preview
-
-Will be there soon
+“*Heart of mathematics*” is an interactive playground in which you will experience the infinite beauty of the patterns behind times tables, circles and fractals. This is my entry for a [WWDC 2018 scholarship](https://developer.apple.com/wwdc/scholarships/). Be sure to check out the other amazing [entries on GitHub](https://github.com/wwdc/2018)!
 
 ## Screenshots
 
-Will be there soon
+![](https://i.imgur.com/OoY43Tp.jpg)
+![](https://i.imgur.com/nViG5Jq.png)
+![](https://i.imgur.com/hb4qXrP.jpg)
+![](https://i.imgur.com/sFJpEte.jpg)
 
 ## Features
 
