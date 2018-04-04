@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![](https://i.imgur.com/OoY43Tp.jpg)
+![](https://i.imgur.com/RvgovOY.jpg)
 ![](https://i.imgur.com/nViG5Jq.png)
 ![](https://i.imgur.com/hb4qXrP.jpg)
 ![](https://i.imgur.com/sFJpEte.jpg)
@@ -23,7 +23,7 @@ You need an **iPad** in order to run it. Just download the latest release and th
 
 ## Credits
 
-This work is based off a really beautiful [video](https://www.youtube.com/watch?v=qhbuKbxJsk8) made by a mathematician on YouTube named Mathologer in which he explained the hidden links behind these different ways of tracing these stunning shapes.
+This work is based off a really beautiful [video](https://www.youtube.com/watch?v=qhbuKbxJsk8) made by a mathematician on YouTube named Mathologer in which he explained the hidden links behind these different ways of tracing these stunning shapes. Also, the code for the Mandelbrot sets is based off this stunning [article](https://developer.apple.com/swift/blog/?id=26) made by Apple about Mandelbrot implementation within a playground.
 
 ## License
 
